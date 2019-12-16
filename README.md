@@ -25,17 +25,33 @@ By student: Rita Valciukiene-(G00376585)
 
 ### References:
 
-https://jp.lt 
+https://jp.lt
+
 www.youtube.com
+
 https://docs.scipy.org
+
 https://stackoverflow.com 
+
 https://het.as.utexas.edu 
+
 https://www.stat.gov.lt 
+
 https://www.lrvalstybe.lt
+
 https://books.google.ie 
+
 https://pftb.ktu.edu
+
 https://ourworldindata.org/rise-of-social-media
-https://www.facebook.com
+
+https://www.facebook.
+
 https://www.impactbnd.com
 
+https://cran.r-project.org/
+
+https://numpy.org/doc/
+
+https://www.statista.com/
                     
