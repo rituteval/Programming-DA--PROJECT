@@ -12,16 +12,16 @@ By student: Rita Valciukiene-(G00376585)
 
 ### Content:
 
-    To collect dataset about real world phenomenon across at least  one hundred data points and at least 4 variables.
-    Investigate the types of variables involved- distributions and relationships between them.
-    Simulate a dataset as closely matching their properties as possible.
-    Implement the simuliation using the Jupyter Notebook. 
-    Detail research and implement the simulation in a Jupyter notebook.
+   To collect dataset about real world phenomenon across at least  one hundred data points and at least 4 variables.
+   Investigate the types of variables involved- distributions and relationships between them.
+   Simulate a dataset as closely matching their properties as possible.
+   Implement the simuliation using the Jupyter Notebook. 
+   Detail research and implement the simulation in a Jupyter notebook.
     
     
 ### Real World Phenomenon
 
-    I want to analyse, what factors affect people to buy things through internet in Lithuania's small town based on population's age, gender and mobile usage and how it may impact their buying behaviour online.
+   I want to analyse, what factors affect people to buy things through internet in Lithuania's small town based on population's age, gender and mobile usage and how it may impact their buying behaviour online.
 
 ### References:
 
